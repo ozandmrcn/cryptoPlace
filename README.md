@@ -1,12 +1,25 @@
-# React + Vite
+# cryptoPlace
+Welcome to the **cryptoPlace** project! This project allows users to explore the world of cryptocurrencies by displaying a list of coins and their details.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Project Overview
+cryptoPlace is a React application built with Vite that fetches data from a cryptocurrency API. The application lists various coins, including Bitcoin, and allows users to click on a coin to view its detailed page.
 
-Currently, two official plugins are available:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Features
+- **Cryptocurrency Listings**: View a list of cryptocurrencies, including Bitcoin.
+- **Detailed Coin View**: Click on a coin to view detailed information.
+- **Responsive Design**: The app is designed to be responsive on both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies Used
+- **React**: For building the user interface.
+- **Vite**: For fast development and bundling.
+- **Axios**: For making HTTP requests to the API.
+- **React Router DOM**: For handling navigation between pages.
+- **React Icons**: For including icons in the interface.
 
-## Expanding the ESLint configuration
+## Preview
+![brave_pZdLmXl1mo](https://github.com/user-attachments/assets/638941d8-ce5b-417c-a9d0-734825779207)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact
+For any questions or feedback, feel free to contact:  
+**Ozan Demircan** - ozandmrcn47@gmail.com
